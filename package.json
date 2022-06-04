@@ -1,0 +1,23 @@
+{
+  "name": "lesson01-techuni",
+  "version": "1.0.0",
+  "description": "[1-1 : Hello World!](1-1)",
+  "main": "mk-README.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponsAoki/lesson01-TechUni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponsAoki/lesson01-TechUni/issues"
+  },
+  "homepage": "https://github.com/ponsAoki/lesson01-TechUni#readme",
+  "dependencies": {
+    "commander": "^9.3.0"
+  }
+}
